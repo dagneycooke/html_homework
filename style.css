@@ -79,7 +79,7 @@ h3 {
 
 @media(max-width: 800px) {
   .gridImage-sm {
-    width:25%
+    width:125px;
   }
 }
 
